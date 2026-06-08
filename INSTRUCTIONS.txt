@@ -1,0 +1,5 @@
+# Install dependencies
+pip install pandas numpy plotly
+
+# Run the script
+python ai_dashboard_week_2_assignment.py
